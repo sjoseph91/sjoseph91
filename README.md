@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Joseph
 
-- 🌱 I’m a Node.js developer.
+- 🌱 I’m a Web developer.
 
 - 💞️ I’m looking to collaborate on meaningful projects with developers who enjoy using technology to solve real world problems.
 
